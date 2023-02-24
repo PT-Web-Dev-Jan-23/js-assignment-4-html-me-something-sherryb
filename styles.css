@@ -27,16 +27,29 @@
     width: 600px;
 }
 
-/* Content Styling */
+/* Main Styling */
 
-.content {
+.main {
     padding: 10px;
     margin: 10px;
     border: 5px solid #555;
     text-align: center;
+    background-color:#d8c81a;
 }
 
-.content img {
+.main #img01 {
     height: 600px;
     width: 700px;
 }
+
+.main #img02 {
+    height: 600px;
+    width: 600px;
+}
+
+/* Footer Styling */
+
+footer {
+    text-align: center;
+}
+
